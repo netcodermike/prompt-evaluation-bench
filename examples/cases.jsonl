@@ -1,0 +1,2 @@
+{"id": "wave", "prompt": "Define wave period", "response": "Seconds between wave crests.", "contains": ["seconds", "crests"], "forbidden": ["password"]}
+{"id": "format", "prompt": "Reply with 3 items", "response": "1. Observe\n2. Measure\n3. Verify", "regex": ["3\\."]}
